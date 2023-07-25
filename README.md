@@ -9,4 +9,10 @@
 ## Toolkit
 Python, MATLAB, R, SQL, C/C++
 
-#### 📬 Reach out to me on LinkedIn: [linkedin.com/in/camillaloconte](linkedin.com/in/camillaloconte)
+
+
+## Project Status
+
+🚧 Some projects are currently in progress
+
+📩 For personal projects I've worked on and potential job offers, reach out to me on LinkedIn: [linkedin.com/in/camillaloconte](linkedin.com/in/camillaloconte)
