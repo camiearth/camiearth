@@ -1,13 +1,14 @@
 ## Hi there👋  
-#### I'm Camilla, a passionate computational biomedical engineer who:
+#### I'm Camilla, a passionate and recent graduate computational biomedical engineer who:
 
-- 🌱 is currently learning **C/C++** 
+- 🌱 is currently seeking an opportunity to join an active team to put my acquired knowledge into practice and contribute to innovative outcomes using cutting-edge AI technology   
 - 💪 loves to work on challenging projects
-- 🔥 handles challenging tasks in Bioinformatics, Machine Learning, Deep Learning, Medical Images & Knowledge Graphs
+- 💪 is eager to continuously learn  
+- 🔥 handles challenging tasks in Bioinformatics, Machine Learning, Deep Learning, Medical Images & Knowledge Graph Embeddings
 - ⚡ plays with all kinds of data structures
 
 ## Toolkit
-Python, MATLAB, R, SQL, C/C++
+Python, MATLAB, R
 
 
 
