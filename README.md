@@ -7,7 +7,7 @@
 - ⚡ loves a dynamic, international and enthusiast work environment
 
 ## Toolkit
-Python, MATLAB, R, SQL, C++
+Python, MATLAB, R, SQL, C
 
 
 
