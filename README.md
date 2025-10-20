@@ -1,10 +1,5 @@
 ## Hi there👋  
-#### I'm Camilla, a passionate and recent graduate AI/ML Engineer who:
-
-- 💪 loves to work on challenging projects
-- 💪 is eager to continuously learn  
-- 🔥 handles challenging tasks in Bioinformatics, Computational Chemistry, Machine Learning, Deep Learning & Knowledge Graph Embeddings
-- ⚡ loves a dynamic, international and interdisciplinary work environment
+#### I'm Camilla
 
 ## Toolkit
 Python, MATLAB, R, SQL, C
