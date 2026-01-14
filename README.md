@@ -2,7 +2,7 @@
 #### I'm Camilla
 
 ## Toolkit
-Python, MATLAB, R, SQL, C
+Python, MATLAB, R, SQL
 
 
 
