@@ -1,5 +1,5 @@
 ## Hi there👋  
-#### I'm Camilla
+#### I'm Camilla, a PhD researcher in AI for the descovery of new materials. 
 
 ## Toolkit
 Python, MATLAB, R, SQL
