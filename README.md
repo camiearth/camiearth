@@ -9,7 +9,7 @@
 </div>
 
 
-* 🎓  Currenly a PhD researcher in AI, specializing in the analysis and modeling of chemical data
+* 🎓  My research lies at the intersection of computational chemistry and AI, with a strong focus on the Digital Chemistry field, using data-driven and automated approaches to accelerate chemical discovery.
 * ✉️  You can reach out to me on LinkedIn: [linkedin.com/in/camillaloconte](linkedin.com/in/camillaloconte)
 * 🚧 Some projects are currently in progress
 * 🚀 Interested in future tech
