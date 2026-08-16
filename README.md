@@ -9,7 +9,8 @@
 </div>
 
 
-🎓  My research lies at the intersection of computational chemistry and AI, with a strong focus on the Digital Chemistry field, using data-driven and automated approaches to accelerate chemical discovery.
+<p align="center">  My research lies at the intersection of computational chemistry and AI, with a strong focus on the Digital Chemistry field, using data-driven and automated approaches to accelerate chemical discovery. </p>
+
 * ✉️  Connect with me on LinkedIn: [linkedin.com/in/camillaloconte](linkedin.com/in/camillaloconte)
 * 🚧 Some projects are currently in progress
 * 🚀 Interested in future tech
