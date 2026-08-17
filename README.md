@@ -19,9 +19,8 @@
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 
-### Skills
 
-<p align="left">
+<p align="center">
   <a href="https://www.python.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="36" height="36"/>
   </a>
@@ -46,5 +45,6 @@
   <a href="https://www.tensorflow.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="36" height="36"/>
   </a>
+</p>
 
  
