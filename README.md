@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Cami</h1>
-<h3 align="center"> Computational Scientist | AI | Data Science 
+<h3 align="center"> AI PhD Researcher @ICIQ | AI & Machine Learning | Quantum Chemistry
     </h3>
 <div align="left">
     <div align="left">
