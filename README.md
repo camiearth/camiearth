@@ -9,7 +9,7 @@
 </div>
 
 
-<p align="center">  My research lies at the intersection of computational chemistry and AI, with a strong focus on the Digital Chemistry field, using data-driven and automated approaches to accelerate chemical discovery. </p>
+<p align="center"> My research lies at the intersection of quantum chemistry and AI, with a strong focus on using data-driven and automated approaches to accelerate chemical discovery. </p>
 
 * 🌐 Personal Portfolio: [camiearth.github.io/Portfolio](https://camiearth.github.io/Portfolio/)
 * 🧪 Focusing on new projects at the intersection of AI, chemistry, and technology
